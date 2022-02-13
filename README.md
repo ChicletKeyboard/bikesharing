@@ -13,8 +13,30 @@ The purpose of this analysis is to create a data-triven proposal to potential in
 
 Visualizations of the data with analysis are shown below:
 
-# Summary
+* August Peak Hours
 
-Based off of the analysis, we can infer that many of these users may not be tourists but rather work commuters, as most of the peak times are around morning and evening commute. Additionally, a majority of the users were male riders. Although this may not be anything significant, but it's useful for future marketing campaings. Another significant point that can be made is that most of the ride durations peaked at around 5 minutes. If there were to be a bike-sharing program set up in Des Moines, it would help if each station can be set up within 10 minutes of biking distance from each other. This is because we need to take into account that NYC is a large city, where as Des Moines is mainly suburbs. Places tend to be farther apart in suburbs compared to places in large cities.
+![August Peak Hours](https://github.com/ChicletKeyboard/bikesharing/blob/abfa9e4dd4de251944fbd34993dc373a1439156b/Resources/August%20Peak%20Hours.png)
+
+
+* Trips per Hour by Weekday
+
+![Trips per Hour by Weekday](https://github.com/ChicletKeyboard/bikesharing/blob/abfa9e4dd4de251944fbd34993dc373a1439156b/Resources/Trips%20per%20Hour%20by%20Weekday.png)
+
+
+* Checkout Times by Users
+
+![Checkout Times by Users](https://github.com/ChicletKeyboard/bikesharing/blob/abfa9e4dd4de251944fbd34993dc373a1439156b/Resources/Checkout%20Times%20by%20Users.png)
+
+* Checkout Times by Gender
+
+![Checkout Times by Gender](https://github.com/ChicletKeyboard/bikesharing/blob/abfa9e4dd4de251944fbd34993dc373a1439156b/Resources/Checkout%20Times%20by%20Gender.png)
+
+
+* New York City Ride Locations
+
+![NYC Ride Locations](https://github.com/ChicletKeyboard/bikesharing/blob/abfa9e4dd4de251944fbd34993dc373a1439156b/Resources/Top%20Starting%20Locations.png)
+
+
+# Summary
 
 From our analysis of the data, the peak times of use around the morning and evening commute lead us to infer that many users are not tourists, but rather work commuters. Any potential future marketing endeavours need to also take into account that the majority of riders are male. Most rides had an average time of 5 minutes with ride frequency dropping significantly for rides beyond 20 minutes. For a bike-sharing program in Des Moines, the data leads to a conclusion that having enough stations to avoid having them beyond the 20 minute biking distance from one another would lead to more rides. All of these inferences and recommendations need to be taken into account that the data this analysis was based on was from biking data in New York City, which is much more urbanized than Des Moines.
